@@ -1,1 +1,0 @@
-alert("Bem vindos ao todo list app!");
