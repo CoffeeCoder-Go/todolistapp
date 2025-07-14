@@ -1,25 +1,25 @@
 # To Do List
 
-    Entry in backend path and run 
+Entry in backend path and run 
 
-    ```bash
-        go mod download
+```bash
+go mod download
     
 
     Exit the backend path, entry in the frontend path and run
 
-    ```bash
-        npm install
+```bash
+npm install
     
 
     In the backend path run
 
-    ```bash
-        air
+```bash
+air
     
 
     In the frontend path run
 
-    ```bash
-        npm run start
+```bash
+npm run start
     
