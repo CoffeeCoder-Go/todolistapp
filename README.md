@@ -1,26 +1,55 @@
 # To Do List
 
-    Entry in backend path and run 
+## Funcionalidades
+- Criar tarefa
+- Listar todas as tarefas
+- Pegar tarefa em específico
+- Marcar tarefa
+- Excluir tarefa
 
+## Tecnologias
+### Backend
+- Air
+- Gin
+- Go
+- Gorm
+- Sqlite3
+
+### Frontend
+- Axios
+- Express
+- Handlebars
+- Javascript
+
+## Como rodar
 ```bash
-go mod download
-```
+## Entre no projeto
+cd todolist
 
+## Entre em backend
+cd backend
 
-    Exit the backend path, entry in the frontend path and run
+## Instale as dependências
+go mod tidy
 
-```bash
-npm install
-```
-
-    In the backend path run
-
-```bash
+## Rode com air
 air
+
+## Saia da pasta backend
+cd ..
+
+## Entre na pasta frontend
+cd frontend
+
+## Instale as dependências
+npm install
+
+## Rode com npm
+npm start
 ```
 
-    In the frontend path run
+## Requisitos
+- Air
+- Go
+- Npm
 
-```bash
-npm run start
-```
